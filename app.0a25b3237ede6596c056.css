@@ -36,12 +36,12 @@
   .MyOrderPanel table {
     width: 100%; }
     .MyOrderPanel table .col1 {
-      width: 15%; }
+      width: 10%; }
     .MyOrderPanel table .col2 {
-      width: 30%; }
+      width: 20%; }
     .MyOrderPanel table .col3 {
-      width: 30%; }
-    .MyOrderPanel table .col4 {
+      width: 20%; }
+    .MyOrderPanel table .col5 {
       width: 15%; }
     .MyOrderPanel table tr.bid td {
       color: #4d9b6c; }
